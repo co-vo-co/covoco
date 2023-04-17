@@ -1,0 +1,1 @@
+# Nodejs package for automated contract creation
