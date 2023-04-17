@@ -1,0 +1,10 @@
+{
+  "name": "evm",
+  "version": "0.0.1",
+  "description": "EVM-based voting contracts",
+  "main": "index.ts",
+  "repository": "https://github.com/co-vo-co/covoco/tree/main/evm",
+  "author": "Leonhard Horstmeyer",
+  "license": "GPL-3.0 or higher",
+  "private": null
+}
