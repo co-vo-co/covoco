@@ -1,0 +1,1 @@
+# Templates for the automated creation of vyper contracts

@@ -1,2 +1,15 @@
 ## environments
 *.env
+
+## evm
+
+evm/*.log
+evm/node_modules
+evm/coverage
+evm/coverage.json
+evm/typechain
+evm/typechain-types
+
+# Hardhat files
+evm/cache
+evm/artifacts
