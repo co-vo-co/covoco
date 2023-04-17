@@ -9,7 +9,11 @@ evm/coverage
 evm/coverage.json
 evm/typechain
 evm/typechain-types
-
-# Hardhat files
 evm/cache
 evm/artifacts
+
+
+# puzzlebox
+
+puzzlebox/dist
+puzzlebox/node_modules
