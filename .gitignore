@@ -1,2 +1,7 @@
 ## environments
 *.env
+
+## evm
+
+evm/*.log
+evm/node_packages

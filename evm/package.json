@@ -5,6 +5,6 @@
   "main": "index.ts",
   "repository": "https://github.com/co-vo-co/covoco/tree/main/evm",
   "author": "Leonhard Horstmeyer",
-  "license": "GPL-3.0 or higher",
+  "license": "GPL-3.0",
   "private": null
 }
