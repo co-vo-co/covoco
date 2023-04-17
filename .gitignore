@@ -4,4 +4,4 @@
 ## evm
 
 evm/*.log
-evm/node_packages
+evm/node_modules
